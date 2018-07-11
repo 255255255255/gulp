@@ -1,0 +1,7 @@
+//自定义变量
+$color: beige;
+.test1{
+    background-color:$color;
+    width: 100px;
+    height: 100px;
+}
