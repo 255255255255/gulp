@@ -17,7 +17,7 @@ about:
 （1）packahe.json
 
 ![ ](http://images.cnblogs.com/cnblogs_com/cliy-10/1246145/o_8.png)
-（2）下载gulp：
+（2）下载gulp
 
 * 下载全局的gulp
 
